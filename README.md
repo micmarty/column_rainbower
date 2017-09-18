@@ -3,7 +3,7 @@
 
 ## Demo
 
-[![asciicast](https://asciinema.org/a/MWzYLmZ1k56i6WL2f5UvbaVsg.png)](https://asciinema.org/a/MWzYLmZ1k56i6WL2f5UvbaVsg)
+[![asciicast](https://asciinema.org/a/JryYxFsRYb73mhk0R7RgKOxXF.png)](https://asciinema.org/a/JryYxFsRYb73mhk0R7RgKOxXF)
 
 ## How to setup with Bash, Zsh or Fish
 
